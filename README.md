@@ -1,2 +1,2 @@
 Compare loan utility.
-- compare different kind of loans across various banks
+- compare different kind of loans benefits and interest of various banks
